@@ -1,0 +1,13 @@
+﻿md sree
+md sree/c1
+md sree/c2
+md sree/c3
+md sree/c4
+echo "welcome TO gpt raichur" > sree/c1/gpt.txt
+echo "welcome TO gpt raichur" > sree/c2/gpt.txt
+echo "welcome TO gpt raichur" > sree/c3/gpt.txt
+echo "welcome TO gpt raichur" > sree/c4/gpt.txt
+type sree/c1/gpt.txt
+type sree/c2/gpt.txt
+type sree/c3/gpt.txt
+type sree/c4/gpt.txt
